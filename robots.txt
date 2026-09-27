@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.wangshuaia9.cn/sitemap.xml
